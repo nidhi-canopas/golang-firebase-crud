@@ -1,4 +1,4 @@
-# Friebase Realtime database CRUD operations in Golang
+# Firebase Realtime database CRUD operations in Golang
 
 This repository demonstrates basic CRUD operations in firebase using Golang Admin SDK.
 
